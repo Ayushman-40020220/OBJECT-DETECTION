@@ -272,23 +272,3 @@ You can add screenshots such as:
 * GPU acceleration
 * Cloud deployment (AWS, Azure, GCP)
 * Detection analytics dashboard
-
----
-
-# 🤝 Contributions
-
-Contributions, feature requests, and suggestions are welcome. Feel free to fork the repository and submit a Pull Request.
-
----
-
-# 👨‍💻 Author
-
-**Mandeep Kharb**
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
-
----
-
-# 📄 License
-
-This project is intended for educational and learning purposes.
